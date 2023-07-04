@@ -1,4 +1,4 @@
-This repository contains Supermium's WebRTC implementation.
+This repository contains Supermium's WebRTC implementation; it contains a few minor modifications to remove DPI function dependencies that would otherwise require Windows 8.x.
 
 # Why is the repository stuffed into a six-part ZIP archive?
 There appears to be a server-side issue at GitHub where a 'git push' of a local repository cloned from a remote non-GitHub repository to an empty GitHub repository fails 
